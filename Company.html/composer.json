@@ -1,0 +1,16 @@
+{
+    "name": "anirudh/traders",
+    "autoload": {
+        "psr-4": {
+            "anirudh\\traders\\":"src/"
+        }
+    },
+    "authors":[
+        {
+          "name":"IT asset company"
+    }
+],
+"require":{
+    "phpmailer/phpmailer": "^6.5"
+}
+}
